@@ -1,1 +1,4 @@
--keep class ir.myket.billingclient.* { *; }
+-keep class ir.myket.billingclient.** { *; }
+-keep interface ir.myket.billingclient.** { *; }
+-keep class com.android.vending.billing.** { *; }
+-keep interface com.android.vending.billing.** { *; }
