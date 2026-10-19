@@ -1,6 +1,6 @@
 # Myket In-App Billing (IAB) Unity Plugin Sample
 
-[![Unity](https://img.shields.io/badge/Unity-2021.3%20%7C%202022.3%20%7C%206000+-black?logo=unity)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-6000+-black?logo=unity)](https://unity.com/)
 [![Platform](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://developer.android.com/)
 [![SDK Version](https://img.shields.io/badge/Billing%20SDK-v2.2-blue)](https://myket.ir/)
 [![Java Compatibility](https://img.shields.io/badge/Java-17-orange?logo=openjdk)](https://openjdk.org/)
