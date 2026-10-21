@@ -93,7 +93,7 @@ myket-billing-unity-sample/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/myket/myket-billing-unity-sample.git
+   git clone https://github.com/komeilkamal/billing-sample-unity.git
    ```
 
 2. **Open in Unity:**
